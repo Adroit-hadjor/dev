@@ -46,7 +46,7 @@ function ReadyTo(){
                  <p> You've seen it before. You go to a website looking for a product and you're bombarded with pages of information, popups galore, and you still can't find what you need.</p>
                  <p> I work with companies around the world to create user-driven websites. Get more clicks, attract more customers, and increase your sales.</p> 
                  <MyButton
-          onClick = {()=> window.location.href='/contact'}
+          onClick = {()=> window.location.href='https://adroit-hadjor.github.io/contact'}
            text="Book Discovery Call &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
            icon ={ <FaArrowRight />}
             />

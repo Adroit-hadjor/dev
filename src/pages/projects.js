@@ -94,7 +94,7 @@ function Project(){
                 subtext="Tourism"
                 icon= {<FaArrowRight />}
                 bgImg = {japan}
-                onClick = {()=> window.location.href='/japan'}
+                onClick = {()=> window.location.href='https://adroit-hadjor.github.io/japan'}
                 />
                  </ScrollAnimation>
                 </div>
@@ -108,7 +108,7 @@ function Project(){
                 subtext="Museum"
                 icon= {<FaArrowRight />}
                 bgImg = {nog}
-                onClick = {()=> window.location.href='/noguchi'}
+                onClick = {()=> window.location.href='https://adroit-hadjor.github.io/noguchi'}
                 />
                  </ScrollAnimation>
                 </div>
@@ -119,7 +119,7 @@ function Project(){
                 subtext="Ecommerce"
                 icon= {<FaArrowRight />}
                 bgImg = {sika}
-                onClick = {()=> window.location.href='/sika'}
+                onClick = {()=> window.location.href='https://adroit-hadjor.github.io/sika'}
                 />
                 </ScrollAnimation>
                 </div>

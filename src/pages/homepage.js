@@ -137,7 +137,7 @@ function Homepage(...props) {
              I've learned how your users think and what you can do to encourage them in the right direction.
              Whether you're looking for a review of your user experience or an entire website build, I can help you.</p>
              <MyButton
-             onClick = {()=> window.location.href='/project'}
+             onClick = {()=> window.location.href='https://adroit-hadjor.github.io/project'}
              text="How I have helped others &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
              icon = {<FaArrowRight />}
               />
@@ -151,7 +151,7 @@ function Homepage(...props) {
                 subtext="Tourism"
                 icon= {<FaArrowRight />}
                 bgImg = {japan}
-                onClick = {()=> window.location.href='/japan'}
+                onClick = {()=> window.location.href='https://adroit-hadjor.github.io/japan'}
                 />
                  </ScrollAnimation>
                 </div>
@@ -165,7 +165,7 @@ function Homepage(...props) {
                 subtext="Museum"
                 icon= {<FaArrowRight />}
                 bgImg = {nog}
-                onClick = {()=> window.location.href='/noguchi'}
+                onClick = {()=> window.location.href='https://adroit-hadjor.github.io/noguchi'}
                 />
                  </ScrollAnimation>
                 </div>
@@ -176,7 +176,7 @@ function Homepage(...props) {
                 subtext="Ecommerce"
                 icon= {<FaArrowRight />}
                 bgImg = {sika}
-                onClick = {()=> window.location.href='/sika'}
+                onClick = {()=> window.location.href='https://adroit-hadjor.github.io/sika'}
                 />
                 </ScrollAnimation>
                 </div>
