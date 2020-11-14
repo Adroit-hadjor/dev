@@ -12,12 +12,12 @@ import Sika from './pages/sika'
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router >
    
       <Switch>
               
               <MyRouter 
-              path="/"
+              path="/ok"
               page={<Homepage />}
               exact={true}
               />
