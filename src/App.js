@@ -17,7 +17,7 @@ function App() {
       <Switch>
               
               <MyRouter 
-              path="/ok"
+              path="/dev"
               page={<Homepage />}
               exact={true}
               />
